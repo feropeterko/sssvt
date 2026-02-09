@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Foo bar");
+            Console.WriteLine("Foo baz");
         }
     }
 }
