@@ -10,5 +10,10 @@
             Console.WriteLine("xxx");
             Console.WriteLine("yyy");
         }
+
+        public static void Foo()
+        {
+            Console.WriteLine("Foo");
+        }
     }
 }
