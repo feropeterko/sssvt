@@ -8,6 +8,7 @@
             Console.WriteLine("Foo bar");
             Console.WriteLine("Boo baz");
             Console.WriteLine("xxx");
+            Console.WriteLine("yyy");
         }
     }
 }
